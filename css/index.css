@@ -295,8 +295,10 @@ footer {
     display: none;
   }
   .home .walk .walk-img {
-    width: 100%;
+    width: 90%;
+    margin-left:0 2.5% 2.5% 0;
     margin-bottom: 5px;
+    
   }
   .home .walk {
     padding: 0px;
